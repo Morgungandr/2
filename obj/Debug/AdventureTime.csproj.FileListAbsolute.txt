@@ -1,0 +1,16 @@
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.csproj.AssemblyReference.cache
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.ClientsForm.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Form1.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Form2.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Form3.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.tourform.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Vidtura.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.newoper.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.NewPit.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.newschedul.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.NewTour.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Properties.Resources.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Schedule.resources
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.csproj.GenerateResource.cache
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.csproj.CoreCompileInputs.cache
+D:\visual\Advtime\AdventureTime\obj\Debug\AdventureTime.Form7.resources
